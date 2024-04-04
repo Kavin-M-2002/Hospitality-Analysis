@@ -1,4 +1,4 @@
-# Hospitality-Analysis - Python
+# Hotel-Data-Analytics - Python
 
 **Problem statement**
 
